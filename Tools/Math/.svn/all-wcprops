@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/pele/!svn/ver/2652/PELE-1.5/src/PathPlanning/Tools/Math
+END
+MatrixOps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/pele/!svn/ver/2652/PELE-1.5/src/PathPlanning/Tools/Math/MatrixOps.cpp
+END
+Solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/pele/!svn/ver/2652/PELE-1.5/src/PathPlanning/Tools/Math/Solver.cpp
+END
+MatrixOps.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/pele/!svn/ver/2652/PELE-1.5/src/PathPlanning/Tools/Math/MatrixOps.h
+END
+Solver.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/pele/!svn/ver/2652/PELE-1.5/src/PathPlanning/Tools/Math/Solver.h
+END

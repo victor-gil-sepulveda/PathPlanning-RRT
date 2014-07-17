@@ -1,0 +1,12 @@
+
+Objetivo:
+
+Buscar una heurística que te permita saber cuándo puedes usar unos modos previamente 
+calculados o debes recalcular unos nuevos.
+
+La hipótesis es:
+-----------------
+Es posible que el cambio en los pesos (o las proyecciones distancia-modo) sea un buen indicador. Junto a este
+se debería tener en cuenta la energía de la red elástica.
+
+Víctor sugiere que deben mirarse también RMSD y las proyecciones entre modos.
